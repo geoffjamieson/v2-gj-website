@@ -5,7 +5,7 @@ const Footer = () => {
       className="max-w-[60em] mx-auto pb-12 flex flex-col md:flex-row justify-center md:justify-between px-6 items-center gap-8"
     >
       <div className="space-x-10">
-        <a href="https://github.com/UnionPAC">
+        <a href="https://github.com/geoffjamieson">
           <i className="fa-brands fa-github text-3xl text-slate-500 hover:text-white"></i>
         </a>
         <a href="https://www.linkedin.com/in/geoffjamieson/">
